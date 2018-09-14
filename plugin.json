@@ -1,0 +1,6 @@
+  "description"       :"Testplugin",
+  "namespace"         :"HelloWorld",
+  "author"            :"goepel",
+  "type"              :"template",
+  "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
+}
